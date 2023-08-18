@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Kamlesh-Barwar/Kamlesh-Barwar/output/snake.svg" alt="Snake animation" />
-
-###
